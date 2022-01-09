@@ -23,9 +23,9 @@ A chat app built in kotlin with implementation of android navigation components.
     <th>Home</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src/1.jpg" style="width:250px;height:500px;"></td>
-    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src/2.jpg" style="width:250px;height:500px;"></td>
-    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src/3.jpg" style="width:250px;height:500px;"></td>
+    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src_app/1.jpg" style="width:250px;height:500px;"></td>
+    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src_app/2.jpg" style="width:250px;height:500px;"></td>
+    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src_app/3.jpg" style="width:250px;height:500px;"></td>
   </tr>
    
 </table><br><br>
@@ -37,9 +37,9 @@ A chat app built in kotlin with implementation of android navigation components.
     <th>live chat</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src/4.jpg" style="width:250px;height:500px;"></td>
-    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src/5.jpg" style="width:250px;height:500px;"></td>
-    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src/6.jpg" style="width:250px;height:500px;"></td>
+    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src_app/4.jpg" style="width:250px;height:500px;"></td>
+    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src_app/5.jpg" style="width:250px;height:500px;"></td>
+    <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src_app/6.jpg" style="width:250px;height:500px;"></td>
   </tr>
    
 </table><br><br>
