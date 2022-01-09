@@ -14,9 +14,11 @@ A chat app built in kotlin with implementation of android navigation components.
  
  <table align="center">
   <tr>
-    <th>News</th>
-    <th>Saved News</th>
-    <th>News Sharing</th>
+    <th>Log In</th>
+    <th>Sign Up</th>
+    <th>Home</th>
+   <th>chat</th>
+   <th>chat</th>
   </tr>
   <tr>
     <td><img src="https://github.com/pratikjaypurkar/chatapp/blob/main/src/1.jpg" alt="Log In" style="width:250px;height:500px;"></td>
