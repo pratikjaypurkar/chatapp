@@ -57,9 +57,9 @@ A chat app built in kotlin with implementation of android navigation components.
 For future i am planning to improve it's UI and add more features like groups,contact with number.
 This project has been made under the Facilitation of-
 
-MR. AKSHAT PATEL SIR 
-MR. TUSHAR SHARMA SIR  
-MR. RISHI GOYAL SIR
+* MR. AKSHAT PATEL SIR 
+* MR. TUSHAR SHARMA SIR  
+* MR. RISHI GOYAL SIR
 
 
 ### Chat Application link : <a href="https://drive.google.com/file/d/1555gPzuwYQe5rbn_zNgmzrGvfXCUGlxT/view?usp=sharing">**Click here to download**</a>
