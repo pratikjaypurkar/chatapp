@@ -7,7 +7,7 @@ Chat rooms have become a popular way to support a forum for n-way conversation o
 
 
 ### Problem Description:
-Email, newsgroup and messaging applications provide means for communication among people but these are one-way mechanisms and they do not provide an easy way to carry on a real-time conversation or discussion with people involved. Chat room extends the one-way messaging concept to accommodate multi-way communication among a set of people.
+Email, messaging applications provide means for communication among people but these are one-way mechanisms and they do not provide an easy way to carry on a real-time conversation or discussion with people involved. Chat room extends the one-way messaging concept to accommodate multi-way communication among a set of people.
 
 
 ### Proposed Solution : 
